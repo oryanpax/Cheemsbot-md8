@@ -22,7 +22,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['919506756846'] //ur owner number
-global.ownernomer = "919506756846" //ur owner number2
+global.ownernomer = "912269719357" //ur owner number2
 global.ownername = "MIƧΛ ΛMΛПΣ 🦋" //ur owner name
 global.ytname = "YT: simpsadiq" //ur yt chanel name
 global.socialm = "Insta: imsad1q" //ur github or insta name
@@ -30,7 +30,7 @@ global.location = "India, Uttar Pradesh" //ur location
 
 //new
 global.botname = "𝙎𝘼𝘿𝙄𝙌 ♥️ 𝘽𝙊𝙏"
-global.ownernumber = '916909137213'
+global.ownernumber = '919506756846'
 global.ownername = 'MIƧΛ ΛMΛПΣ 🦋'
 global.ownerNumber = ["919506756846@s.whatsapp.net"]
 global.ownerweb = "https://t.me/UL7R0N"
