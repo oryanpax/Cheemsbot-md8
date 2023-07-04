@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -39,7 +39,7 @@ global.wagc = "https://t.me/UL7R0N"
 global.themeemoji = '🪀'
 global.wm = "Sadix Bot Inc."
 global.botscript = 'https://t.me/UL7R0N' //script link
-global.packname = "MIƧΛ ΛMΛПΣ 🦋"
+global.packname = " "
 global.author = "𝙎𝘼𝘿𝙄𝙌 ♥️ 𝘽𝙊𝙏"
 global.creator = "919506756846@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
