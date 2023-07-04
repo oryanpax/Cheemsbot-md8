@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -21,28 +21,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['919506756846'] //ur owner number
+global.owner = ['𝙈𝙞𝙨𝙖 𝘼𝙢𝙖𝙣𝙚'] //ur owner number
 global.ownernomer = "912269719357" //ur owner number2
-global.ownername = "MIƧΛ ΛMΛПΣ 🦋" //ur owner name
-global.ytname = "YT: simpsadiq" //ur yt chanel name
-global.socialm = "Insta: imsad1q" //ur github or insta name
-global.location = "India, Uttar Pradesh" //ur location
+global.ownername = "𝙈𝙞𝙨𝙖 𝘼𝙢𝙖𝙣𝙚 🦋" //ur owner name
+global.ytname = "Telegram: UL7R0N" //ur yt chanel name
+global.socialm = "insta: sab_janna_hai_iss_bhadwe_ko" //ur github or insta name
+global.location = "India, Sonagachi" //ur location
 
 //new
 global.botname = "𝙎𝘼𝘿𝙄𝙌 ♥️ 𝘽𝙊𝙏"
 global.ownernumber = '919506756846'
-global.ownername = 'MIƧΛ ΛMΛПΣ 🦋'
+global.ownername = '𝙈𝙞𝙨𝙖 𝘼𝙢𝙖𝙣𝙚 🦋'
 global.ownerNumber = ["919506756846@s.whatsapp.net"]
-global.ownerweb = "https://t.me/UL7R0N"
+global.ownerweb = "https://chat.whatsapp.com/GNVDNrfbJy64ZlgI9swuh7"
 global.websitex = "https://t.me/UL7R0N"
-global.wagc = "https://t.me/UL7R0N"
+global.wagc = "https://chat.whatsapp.com/GNVDNrfbJy64ZlgI9swuh7"
 global.themeemoji = '🪀'
 global.wm = "Sadix Bot Inc."
 global.botscript = 'https://t.me/UL7R0N' //script link
-global.packname = " "
-global.author = "𝙎𝘼𝘿𝙄𝙌 ♥️ 𝘽𝙊𝙏"
+global.packname = "𝙎𝘼𝘿𝙄𝙌 ♥️ 𝘽𝙊𝙏"
+global.author = " "
 global.creator = "919506756846@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','']
 global.sessionName = 'session'
 global.hituet = 0
 
